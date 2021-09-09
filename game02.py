@@ -1,4 +1,4 @@
-#현민
+#현민입니다
 import pygame
 import sys
 import math
